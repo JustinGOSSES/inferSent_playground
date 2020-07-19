@@ -5,6 +5,9 @@
 # LICENSE file in the root directory of this source tree.
 #
 
+## ORIGINAL REPO AND LICENSE FILE IS HERE: https://github.com/facebookresearch/InferSent/blob/master/LICENSE
+
+
 """
 This file contains the definition of encoders used in https://arxiv.org/pdf/1705.02364.pdf
 """
